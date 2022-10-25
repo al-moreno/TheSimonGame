@@ -15,7 +15,7 @@ In this application, you will witness my ability to work with JavaScript and inc
 
 [GitHub] Repo: https://github.com/al-moreno/TheSimonGame
 
-LiveServer: pending
+LiveServer: https://al-moreno.github.io/TheSimonGame/
 
 ![picture](image.png)
 
